@@ -10,3 +10,6 @@
 # Step 03. Download Python Client
 # https://github.com/datastax/python-driver
 # There are option to allow faster building (instead of 10+ minutes)
+
+# Step 04. Download Spark
+# https://spark.apache.org/examples.html
