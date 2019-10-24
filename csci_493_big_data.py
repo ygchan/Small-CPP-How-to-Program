@@ -13,3 +13,8 @@
 
 # Step 04. Download Spark
 # https://spark.apache.org/examples.html
+
+# Step 05. Cypher Query Language
+# MATCH (nicole:Actor {name: 'Nicole Kidman'})-[:ACTED_IN]->(movie:Movie)
+# WHERE movie.year < $yearParameter
+# RETURN movie
