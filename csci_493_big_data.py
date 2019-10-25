@@ -15,6 +15,7 @@
 # https://spark.apache.org/examples.html
 
 # Step 05. Cypher Query Language
+# https://neo4j.com/developer/javascript/
 # MATCH (nicole:Actor {name: 'Nicole Kidman'})-[:ACTED_IN]->(movie:Movie)
 # WHERE movie.year < $yearParameter
 # RETURN movie
