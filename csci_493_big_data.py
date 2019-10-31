@@ -39,3 +39,21 @@ ab = Relationship(a, "KNOWS", b)
 ab
 
 # (Alice)-[:KNOWS {}]->(Bob)
+
+count = 0
+
+# Loading the nodes into graph database
+with open('nodes.tsv', 'r') as f:
+    next(f)
+    for line in f.readlines():
+        data_array = line.strip().split('\t')
+        
+        # https://stackoverflow.com/a/39379369
+        tx = graph.begin()
+        # Node(type, name=name, uid=id)
+        tx.create(Node(data_array[2], name=data_array[1], uid=data_array[0]))
+        tx.commit()
+        
+        count += 1
+
+print('Completed. You have created {:,} nodes.'.format(count))
