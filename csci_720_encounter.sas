@@ -179,3 +179,13 @@ quit;
 /* #19. How to convert a string date to number date? */
 %let date = input("01JAN2019", Date9.);
 %let date = input("01/01/2019", mmddyy10.);
+
+
+/* ------------------------------------------------------------------------- */
+/* #20. How to transpose? */
+proc transpose;
+	data = input-dataset
+	out = output-dataset
+	var speccod
+	by provider_id;
+run;
