@@ -189,3 +189,7 @@ proc transpose;
 	var speccod
 	by provider_id;
 run;
+
+
+/* ------------------------------------------------------------------------- */
+/* #21. How to create a folder with libname, what is the option? */
