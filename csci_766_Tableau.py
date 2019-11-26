@@ -3,3 +3,6 @@
 
 # https://www.youtube.com/watch?v=uSyW1a_yjuQ&t=1501s
 # Tableau: Charts
+
+# https://www.youtube.com/watch?v=Lu0jrymqOGM
+# Tableau: 10 Design tips
