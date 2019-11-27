@@ -6,3 +6,6 @@
 
 # https://www.youtube.com/watch?v=Lu0jrymqOGM
 # Tableau: 10 Design tips
+
+# https://www.youtube.com/watch?v=u11t3R8R1O4
+# Tableau: Charts
