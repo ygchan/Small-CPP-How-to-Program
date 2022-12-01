@@ -22,3 +22,4 @@
 22. Calculate rejection revenue
 23. Find members with EDRD but not getting coded as ESRD
 24. Find members in a nursing home long term, but not coded as LTH
+25. Reconcile enrollment and disenrollment (MRR, TRR)
