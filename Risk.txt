@@ -16,3 +16,9 @@
 16. Get list of mbi and hicn
 17. Transpose text to database
 18. Transpose columms to rows and rows to columns
+19. Get provider specialty code and cms specialty code
+20. Get list of chart review/in home assessment list
+21. Calculate ROI 
+22. Calculate rejection revenue
+23. Find members with EDRD but not getting coded as ESRD
+24. Find members in a nursing home long term, but not coded as LTH
