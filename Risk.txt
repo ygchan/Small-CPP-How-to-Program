@@ -1,5 +1,5 @@
-1. Get active members
-2. Get member's PCP
+1. Get active members and their information
+2. Get member's PCP and their information
 3. Get Encounter Status
 4. Get Rejection Summary
 5. Get Encounter not submitted
