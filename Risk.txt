@@ -1,0 +1,11 @@
+1. Get active members
+2. Get member's PCP
+3. Get Encounter Status
+4. Get Rejection Summary
+5. Get Encounter not submitted
+6. Get void claims
+7. Get number of new diagnosis code
+8. Get number of new HCC
+9. Get revenue impact
+10. Get risk score
+11. Get forecasted risk score
