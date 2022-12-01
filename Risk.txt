@@ -9,3 +9,10 @@
 9. Get revenue impact
 10. Get risk score
 11. Get forecasted risk score
+12. Get final status
+13. Get number of MAO 004 rejects
+14. Get number of MAO 002 rejects
+15. Get list of rejection code crosswalk
+16. Get list of mbi and hicn
+17. Transpose text to database
+18. Transpose columms to rows and rows to columns
