@@ -2,7 +2,9 @@
 2. Get member's PCP and their information
 3. Get Encounter Status
 4. Get Rejection Summary
+   From the rejection lookup the submitted data
 5. Get Encounter not submitted
+   Prepare a list in csv format
 6. Get void claims
 7. Get number of new diagnosis code
 8. Get number of new HCC
