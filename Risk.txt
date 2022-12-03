@@ -8,7 +8,8 @@
 6. Get void claims
 7. Get number of new diagnosis code
 8. Get number of new HCC
-9. Get revenue impact
+9. Get revenue impact (bid rate * risk score(
+   initial, EOL, final timeline
 10. Get risk score
 11. Get forecasted risk score
 12. Get final status
