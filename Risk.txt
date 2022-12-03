@@ -1,6 +1,8 @@
 1. Get active members and their information
+   Part A preimum and Part B premium.
 2. Get member's PCP and their information
-3. Get Encounter Status
+   Provider speciality codes
+3. Get Encounter Status, WQ, D
 4. Get Rejection Summary
    From the rejection lookup the submitted data
 5. Get Encounter not submitted
