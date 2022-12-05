@@ -3,12 +3,15 @@
 2. Get member's PCP and their information
    Provider speciality codes
 3. Get Encounter Status, WQ, D
+   Crosswalk Encounter Status using case statement
 4. Get Rejection Summary
    From the rejection lookup the submitted data
 5. Get Encounter not submitted
    Prepare a list in csv format
 6. Get void claims
+   Get replacement claims (rev_ind, rev_to, rev_from)
 7. Get number of new diagnosis code
+   Compress, crosswalk name, hcc
 8. Get number of new HCC
 9. Get revenue impact (bid rate * risk score(
    initial, EOL, final timeline
