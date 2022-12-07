@@ -1,5 +1,6 @@
 1. Get active members and their information
    Part A preimum and Part B premium.
+   Medicaid status, CFDA, CFDD etc
 2. Get member's PCP and their information
    Provider speciality codes
 3. Get Encounter Status, WQ, D
