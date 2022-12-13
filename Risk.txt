@@ -17,6 +17,8 @@
 9. Get revenue impact (bid rate * risk score(
    initial, EOL, final timeline
 10. Get risk score
+    Processed date vs. Service Date
+    Initial, Mid Year, End of Year
 11. Get forecasted risk score
 12. Get final status
 13. Get number of MAO 004 rejects
