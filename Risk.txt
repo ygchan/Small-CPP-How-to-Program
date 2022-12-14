@@ -14,13 +14,15 @@
 7. Get number of new diagnosis code
    Compress, crosswalk name, hcc
 8. Get number of new HCC
-9. Get revenue impact (bid rate * risk score(
+9. Get revenue impact (bid rate * risk score)
    initial, EOL, final timeline
 10. Get risk score
     Processed date vs. Service Date
     Initial, Mid Year, End of Year
 11. Get forecasted risk score
+    Assumption about membership, risk score and model change
 12. Get final status
+    max(final_status)
 13. Get number of MAO 004 rejects
 14. Get number of MAO 002 rejects
 15. Get list of rejection code crosswalk
