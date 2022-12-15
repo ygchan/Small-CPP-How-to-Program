@@ -5,6 +5,8 @@
    Provider speciality codes
 3. Get Encounter Status, WQ, D
    Crosswalk Encounter Status using case statement
+   Crosswalk Encounter Rejection status
+   Find out if HCC is accepted.
 4. Get Rejection Summary
    From the rejection lookup the submitted data
 5. Get Encounter not submitted
