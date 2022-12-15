@@ -26,11 +26,14 @@
 12. Get final status
     max(final_status)
 13. Get number of MAO 004 rejects
+    Crosswalk Disallow Reason Code
 14. Get number of MAO 002 rejects
+    Crosswalk Informational and Rejection Edit code
 15. Get list of rejection code crosswalk
 16. Get list of mbi and hicn
 17. Transpose text to database
 18. Transpose columms to rows and rows to columns
+    Import data through column width delimited spec
 19. Get provider specialty code and cms specialty code
 20. Get list of chart review/in home assessment list
 21. Calculate ROI 
