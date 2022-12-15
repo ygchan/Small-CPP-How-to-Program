@@ -39,3 +39,4 @@
 24. Find members in a nursing home long term, but not coded as LTH
 25. Reconcile enrollment and disenrollment (MRR, TRR)
 26. CD, region, parent cdo, cdo, hp level report
+27. For enrollment and disenrollment, use MMR, and TRR to find reason.
