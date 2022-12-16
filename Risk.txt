@@ -50,4 +50,6 @@
 31. Average diagnosis code per member (by demographic type)
 32. Forecast clinicial risk score (co-current in year)
 33. Forecast financial risk score (prospective)
-34. Forecast financial CMS payment revenue
+34. Forecast financial CMS payment revenue and POP payment
+    Estimate model change impact, risk score change impact.
+    Given membership and demographic information.
