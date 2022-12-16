@@ -45,3 +45,6 @@
 26. CD, region, parent cdo, cdo, hp level report
 27. For enrollment and disenrollment, use MMR, and TRR to find reason.
 28. Perform data mapping and data gap analysis
+29. Recapture analysis
+30. Member with RA visits
+31. Average diagnosis code per member (by demographic type)
