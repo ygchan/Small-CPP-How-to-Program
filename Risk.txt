@@ -14,9 +14,12 @@
    Prepare a list in csv format
 6. Get void claims
    Get replacement claims (rev_ind, rev_to, rev_from)
+   Get replacement encounter status
 7. Get number of new diagnosis code
    Compress, crosswalk name, hcc
 8. Get number of new HCC
+   Summarize cat of HCC
+   List Trumped HCC
 9. Get revenue impact (bid rate * risk score)
    initial, EOL, final timeline
 10. Get risk score
